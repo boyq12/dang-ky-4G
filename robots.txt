@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /Admin/Logins/
+Disallow: /quan-tri/
+
+Sitemap: http://nhadatphiataysaigon.com/sitemap.xml

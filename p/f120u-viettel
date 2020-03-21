@@ -1,0 +1,416 @@
+﻿
+<!DOCTYPE html>
+<html class='v3' lang='vi' xml:lang='vi' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <link href='/Content/css/3597120983-css_bundle_v2.css' rel='stylesheet' type='text/css' />
+    <meta content='vi,en' name='dc.language' />
+    <link href='http://www.share123.vn/' hreflang='vi-vn' rel='alternate' />
+    <meta content='Dang Dai' name='author' />
+    <meta content='AiGpGme_bdyZHImOUrICiJqz08mt6wxn4IY0zzWab3k' name='google-site-verification' />
+    <meta charset='utf-8' />
+    <meta content='IE=edge' http-equiv='X-UA-Compatible' />
+    <meta content='width=device-width, initial-scale=1' name='viewport' />
+    <!-- Bootstrap -->
+    <link href="/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+    <script src="/Content/js/jquery.min.js"></script>
+    <script type='text/javascript'>
+        //<![CDATA[
+        var curl = window.location.href; if (curl.indexOf('m=1') != -1) { curl = curl.replace('m=1', 'm=0'); window.location.href = curl; }
+        //]]></script>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta content='' name='theme-color' />
+    <!-- Windows Phone -->
+    <link rel="alternate" type="application/atom+xml" title="Viettel Telecom - Atom" href="feeds/posts/default" />
+    <link rel="alternate" type="application/rss+xml" title="Viettel Telecom - RSS" href="feeds/posts/default9522?alt=rss" />
+    <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+    <meta name="description" content="Đăng ký gói cước F120U Viettel tặng 7GB data + triệu phút gọi FREE chỉ 120k" />
+    <link rel="canonical" href="http://dangky4gviettel.com.vn/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="F120U Viettel" />
+    <meta property="og:description" content="Đăng ký gói cước F120U Viettel tặng 7GB data + triệu phút gọi FREE chỉ 120k" />
+    <meta property="og:url" content="http://dangky4gviettel.com.vn/p/f120u-viettel" />
+    <meta property="og:image" content="http://dangky4gviettel.com.vn//Upload/2019/09/f120k.png" />
+    <meta property="og:site_name" content="http://dangky4gviettel.com.vn/" />
+    <meta name="keywords" content="" />
+    <meta name="twitter:description" content="F120U Viettel" />
+    <meta name="twitter:title" content="F120U Viettel" />
+    <meta name="twitter:image" content="http://dangky4gviettel.com.vn//Upload/2019/09/f120k.png" />
+    <link rel="shortcut icon" href="/Content/images/logo.png" type="image/x-icon" />
+    <title>F120U Viettel</title>
+    <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+    <title>
+        Viettel Telecom
+    </title>
+    <link href="/Content/css/style.css" rel="stylesheet" type="text/css" />
+
+    <script type='text/javascript' src="/Content/js/main.js"></script>
+    <script>
+        //<![CDATA[
+        function smsbutton(dauso, sms) {
+            var ua = navigator.userAgent.toLowerCase();
+            var url;
+            if (ua.indexOf("iphone") > -1 || ua.indexOf("ipad") > -1) {
+                url = "sms:" + dauso + "&body=" + sms;
+                location.href = url
+            } else if (ua.indexOf("android") > -1 || ua.indexOf("windows phone") > -1 || ua.indexOf("blackberry") > -1) {
+                url = "sms:" + dauso + "?body=" + sms;
+                location.href = url
+            } else alert("Soan " + sms + " gui " + dauso)
+        }
+        //]]>
+    </script>
+    <link href='/Content/css/authorizationab6e.css?targetBlogID=8581617797625650968&amp;amp;zx=8437eb70-5b04-40db-aa17-1126c57636b7' media='none' onload="if(media!='all')media='all'" rel='stylesheet' />
+    <noscript>
+        <link href='/Content/css/authorizationab6e.css?targetBlogID=8581617797625650968&amp;amp;zx=8437eb70-5b04-40db-aa17-1126c57636b7' rel='stylesheet' />
+    </noscript>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139165234-6"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-139165234-6');
+	</script>
+
+</head>
+<body class='loading'>
+    <div id='header-wrapper'>
+        <div class='container'>
+            <div class='header section' id='header' name='Tiêu đề'>
+                <div class='widget Header' data-version='1' id='Header1'>
+                    <div id='header-inner'>
+                        <a href='/trang-chu' style='display: block'>
+                            <img alt='Viettel Telecom' height='45' id='Header1_headerimg' src='/Content/images/logo.png' style='display: block' width='221' />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class='menu-wrapper section' id='Main-Menu'>
+                <div class='widget LinkList' data-version='1' id='LinkList55'>
+                    <div class='widget-content'>
+                        <ul>
+                            <li><a href='/trang-chu'>Trang chủ</a></li>
+                                            <li><a href='#'>G&#243;i Data cho Di Động</a></li>
+                                                <li><a href='/p/umax300-viettel'>_UMAX300 Viettel</a></li>
+                                                <li><a href='/p/mimax90-viettel'>_MIMAX90 Viettel</a></li>
+                                                <li><a href='/p/mimax70-viettel'>_MIMAX70 Viettel</a></li>
+                                                <li><a href='/p/mimaxsv-viettel'>_MIMAXSV Viettel</a></li>
+                                                <li><a href='/p/mimax450-viettel'>_MIMAX450 Viettel</a></li>
+                                                <li><a href='/p/sg90-viettel'>_SG90 Viettel</a></li>
+                                                <li><a href='/p/mimax125-viettel'>_MIMAX125 Viettel</a></li>
+                                                <li><a href='/p/sg120-viettel'>_SG120 Viettel</a></li>
+                                                <li><a href='/p/st70-viettel'>_ST70 Viettel</a></li>
+                                                <li><a href='/p/mimax200-viettel'>_MIMAX200 Viettel</a></li>
+                                                <li><a href='/p/st150-viettel'>_ST150 Viettel</a></li>
+                                                <li><a href='/p/km250v-viettel'>_KM250V Viettel</a></li>
+                                                <li><a href='/p/km300v-viettel'>_KM300V Viettel</a></li>
+                                                <li><a href='/p/st90-viettel'>_ST90 Viettel</a></li>
+                                                <li><a href='/p/ecod50-viettel'>_ECOD50 Viettel</a></li>
+                                                <li><a href='/p/v120-viettel'>_V120 Viettel</a></li>
+                                                <li><a href='/p/tomd30-viettel'>_TOMD30 Viettel</a></li>
+                                                <li><a href='/p/xl90-viettel'>_XL90 Viettel</a></li>
+                                                <li><a href='/p/xl50-viettel'>_XL50 Viettel</a></li>
+                                            <li><a href='#'>G&#243;i Data cho Dcom</a></li>
+                                                <li><a href='/p/d900-viettel'>_D900 Viettel</a></li>
+                                                <li><a href='/p/d500-viettel'>_D500 Viettel</a></li>
+                                                <li><a href='/p/d300k-viettel'>_D300K Viettel</a></li>
+                                                <li><a href='/p/d200-viettel'>_D200 Viettel</a></li>
+                                                <li><a href='/p/d120-viettel'>_D120 Viettel</a></li>
+                                                <li><a href='/p/d90-viettel'>_D90 Viettel</a></li>
+                                                <li><a href='/p/d70-viettel'>_D70 Viettel</a></li>
+                                                <li><a href='/p/d50-viettel'>_D50 Viettel</a></li>
+                                            <li><a href='#'>G&#243;i Combo cho Di Động</a></li>
+                                                <li><a href='/p/b150k-viettel'>_B150K Viettel</a></li>
+                                                <li><a href='/p/b100k-viettel'>_B100K Viettel</a></li>
+                                                <li><a href='/p/t80k-viettel'>_T80K Viettel</a></li>
+                                                <li><a href='/p/t70k-viettel'>_T70K Viettel</a></li>
+                                                <li><a href='/p/t50k-viettel'>_T50K Viettel</a></li>
+                                                <li><a href='/p/hi90-viettel'>_HI90 Viettel</a></li>
+                                                <li><a href='/p/f90-viettel'>_F90 Viettel</a></li>
+                                                <li><a href='/p/3f90-viettel'>_3F90 Viettel</a></li>
+                                                <li><a href='/p/6f90-viettel'>_6F90 Viettel</a></li>
+                                                <li><a href='/p/12f90-viettel'>_12F90 Viettel</a></li>
+                                                <li><a href='/p/v90-viettel'>_V90 Viettel</a></li>
+                                                <li><a href='/p/v380-viettel'>_V380 Viettel</a></li>
+                                                <li><a href='/p/vip100x-viettel'>_VIP100X Viettel</a></li>
+                                                <li><a href='/p/f140-viettel'>_F140 Viettel</a></li>
+                                                <li><a href='/p/v150-viettel'>_V150 Viettel</a></li>
+                                                <li><a href='/p/vip300x-viettel'>_VIP300X Viettel</a></li>
+                                                <li><a href='/p/f70-viettel'>_F70 Viettel</a></li>
+                                                <li><a href='/p/f120-viettel'>_F120 Viettel</a></li>
+                                                <li><a href='/p/f120u-viettel'>_F120U Viettel</a></li>
+                                                <li><a href='/p/xl90u-viettel'>_XL90U Viettel</a></li>
+                                            <li><a href='#'>G&#243;i di động trả trước</a></li>
+                                                <li><a href='/p/v200k-viettel'>_V200K Viettel</a></li>
+                                                <li><a href='/p/v150k-viettel'>_V150K Viettel</a></li>
+                                                <li><a href='/p/km150v-viettel'>_KM150V Viettel</a></li>
+                                                <li><a href='/p/vip200x-viettel'>_VIP200X Viettel</a></li>
+                                                <li><a href='/p/vip150x-viettel'>_VIP150X Viettel</a></li>
+                                                <li><a href='/p/km120v-viettel'>_KM120V Viettel</a></li>
+                                                <li><a href='/p/v120k-viettel'>_V120K Viettel</a></li>
+                                                <li><a href='/p/km119-viettel'>_KM119 Viettel</a></li>
+                                                <li><a href='/p/t100-viettel'>_T100 Viettel</a></li>
+                                                <li><a href='/p/km99-viettel'>_KM99 Viettel</a></li>
+                                                <li><a href='/p/v90k-viettel'>_V90K Viettel</a></li>
+                                                <li><a href='/p/v70k-viettel'>_V70K Viettel</a></li>
+                                                <li><a href='/p/km69-viettel'>_KM69 Viettel</a></li>
+                                                <li><a href='/p/v50s-viettel'>_V50S Viettel</a></li>
+                                            <li><a href='/tin-tuc/tin-tuc'>Tin tức</a></li>
+
+                        </ul>
+                        <div class='clear'></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id='slider-wrapper'>
+        <div class='slider-share123vn section' id='Banner Wapper'>
+            <div class='widget Image' data-version='1' id='Image18'>
+                <div class='widget-content' style='background: #eee; margin:auto 0 !important;'>
+                    <img alt='' height='294' id='Image18_img' src='/Content/images/Banner-01.jpg' width='1600' />
+                </div>
+                <div class='clear'></div>
+            </div>
+        </div>
+    </div>
+    <!--end. slider-->
+    
+﻿
+<div class='container container-all'>
+    <div class='row'>
+        <div class='single-wrapper-left col-md-9'>
+            <div class='main content-single section' id='content'>
+                <div class='widget Blog' data-version='1' id='Blog1'>
+                    <div class='clear'></div>
+                    <h2 class='title-page'>Gói cước F120U Viettel</h2>
+                        <div class='entry'>
+                            <div class='post-body'>
+                                <p>
+                                    <p><span style="font-size:16px">Đăng k&yacute; g&oacute;i cước F120U Viettel tặng 7GB data + triệu ph&uacute;t gọi FREE chỉ 120k</span></p>
+
+<p><span style="font-size:16px">Trời ơi tin được kh&ocirc;ng! Chỉ 120.000đ/th&aacute;ng thu&ecirc; bao nhận về ngay ưu đ&atilde;i tốc độ cao l&ecirc;n đến 7GB v&agrave; thoải m&aacute;i gọi thoại miễn ph&iacute; với triệu ph&uacute;t gọi suốt cả th&aacute;ng khi đăng k&yacute; g&oacute;i F120U Viettel. G&oacute;i cước khuyến m&atilde;i F120U Viettel l&agrave; g&oacute;i cước mới, được nh&agrave; mạng ra mắt trong thời gian gần đ&acirc;y, nhưng sức h&uacute;t của g&oacute;i F120U mạng Viettel l&agrave; v&ocirc; c&ugrave;ng quyết liệt khi c&oacute; h&agrave;ng loạt c&aacute;c thu&ecirc; bao di động h&ograve;a mạng th&agrave;nh c&ocirc;ng. C&ograve;n bạn th&igrave; sao? Đ&atilde; sẵn s&agrave;ng c&ugrave;ng dịch vụ <strong>dangky4gviettel.com.vn</strong> kh&aacute;m ph&aacute; về g&oacute;i cước khuyến m&atilde;i F120U chưa n&agrave;o!&nbsp;</span></p>
+
+<p><span style="font-size:16px">Ưu đ&atilde;i t&iacute;ch hợp trọn g&oacute;i thoải m&aacute;i trải nghiệm thả ga suốt 30 ng&agrave;y thế nhưng gi&aacute; đăng k&yacute; vỏn vẹn chỉ 120.000đ/th&aacute;ng th&igrave; c&ograve;n g&igrave; tuyệt vời bằng. Cũng tương tự như c&aacute;c g&oacute;i khuyến m&atilde;i Viettel trước đ&acirc;y, bạn kh&ocirc;ng phải di chuyển đến cửa h&agrave;ng giao dịch hay nhờ v&agrave;o sự gi&uacute;p đỡ của bất kỳ ai, m&agrave; thay v&agrave;o đ&oacute; bạn h&atilde;y d&agrave;nh &iacute;t thời gian qu&yacute; b&aacute;u tham khảo c&aacute;ch đăng k&yacute; g&oacute;i F120U Viettel ngay sau đ&acirc;y. Chắc chắn bạn sẽ tự m&igrave;nh k&iacute;ch hoạt th&agrave;nh c&ocirc;ng g&oacute;i F120U của Viettel về cho dế y&ecirc;u chỉ trong gi&acirc;y l&aacute;t.&nbsp;</span></p>
+
+<p style="text-align: center;"><span style="font-size:16px"><img src="/Upload/File/images/f120k.png" style="height:624px; width:624px" /></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px"><strong>C&aacute;ch đăng k&yacute; g&oacute;i cước F120U Viettel ưu đ&atilde;i combo cực khủng:&nbsp;</strong></span></p>
+
+<p><span style="font-size:16px">Khi c&oacute; nhu cầu h&ograve;a mạng g&oacute;i F120U Viettel bạn soạn tin nhắn theo c&uacute; ph&aacute;p đơn giản như sau:&nbsp;</span></p>
+
+<p><span style="font-size:16px">Soạn tin nhắn </span><span style="font-size:22px"><span style="color:#FF0000"><strong>F120U 0962 559 589</strong></span></span><span style="font-size:16px"> gửi đến </span><span style="font-size:22px"><span style="color:#006400"><strong>9123</strong></span></span><span style="font-size:16px"> (miễn ph&iacute; sms)</span></p>
+
+<p><span style="font-size:16px">&ndash; Trong đ&oacute;: <strong>F120U</strong> l&agrave; t&ecirc;n g&oacute;i cước khuyến m&atilde;i Viettel,</span></p>
+
+<p><span style="font-size:16px"><strong>0962 559 589 </strong>l&agrave; m&atilde; số đại l&yacute; ch&iacute;nh thức của Viettel,</span></p>
+
+<p><span style="font-size:16px">&nbsp;<strong>9123 </strong>l&agrave; tổng đ&agrave;i Viettel.&nbsp;</span></p>
+
+<p><span style="font-size:16px">&ndash; Sau khi tin nhắn gửi đi th&agrave;nh c&ocirc;ng bạn sẽ nhận về một tin nhắn phản hồi từ tổng đ&agrave;i Viettel. L&uacute;c n&agrave;y, bạn vui l&ograve;ng khởi động lại thiết bị để hệ thống c&oacute; thời gian cập nhật ưu đ&atilde;i v&agrave;o t&agrave;i khoản thu&ecirc; bao nh&eacute;.&nbsp;</span></p>
+
+<p><span style="font-size:16px"><strong>Th&ocirc;ng tin chi tiết về g&oacute;i cước khuyến m&atilde;i F120U Viettel:&nbsp;</strong></span></p>
+
+<p><span style="font-size:16px">Việc t&igrave;m hiểu chi tiết về ưu đ&atilde;i v&agrave; gi&aacute; cước k&iacute;ch hoạt g&oacute;i F120U của Viettel vẫn lu&ocirc;n l&agrave; điều quan trọng m&agrave; bạn cần nắm bắt. Th&ocirc;ng tin cụ thể như sau:&nbsp;</span></p>
+
+<p><span style="font-size:16px"><strong>1. Gi&aacute; cước đăng k&yacute;:</strong> 120.000đ/ lần h&ograve;a mạng th&agrave;nh c&ocirc;ng g&oacute;i F120U của Viettel.&nbsp;</span></p>
+
+<p><span style="font-size:16px"><strong>2. Chu kỳ sử dụng:</strong> trong 30 ng&agrave;y t&iacute;nh từ thời điểm thu&ecirc; bao k&iacute;ch hoạt th&agrave;nh c&ocirc;ng g&oacute;i cước khuyến m&atilde;i.&nbsp;</span></p>
+
+<p><span style="font-size:16px"><strong>3. C&aacute;c ưu đ&atilde;i hấp dẫn từ g&oacute;i cước F120U Viettel:&nbsp;</strong></span></p>
+
+<p><span style="font-size:16px">&ndash; Ưu đ&atilde;i data 3G 4G Viettel:&nbsp;</span></p>
+
+<ul>
+	<li>
+	<p><span style="font-size:16px">Nhận ngay 7GB dung lượng truy cập Internet tr&ecirc;n di động với nền c&ocirc;ng nghệ kh&ocirc;ng d&acirc;y thế hệ mới nhất của Viettel.</span></p>
+	</li>
+	<li>
+	<p><span style="font-size:16px">Đặc biệt, khi sử dụng hết 7GB tốc độ cao bạn vẫn c&oacute; thể thoải m&aacute;i truy cập Internet miễn ph&iacute; ở tốc độ thường cho đến khi hết chu kỳ g&oacute;i.&nbsp;</span></p>
+	</li>
+</ul>
+
+<p><span style="font-size:16px">&ndash; Ưu đ&atilde;i gọi thoại miễn ph&iacute;:&nbsp;</span></p>
+
+<ul>
+	<li>
+	<p><span style="font-size:16px">Miễn ph&iacute; 40 ph&uacute;t gọi ngoại mạng trong nước.&nbsp;</span></p>
+	</li>
+	<li>
+	<p><span style="font-size:16px">Miễn ph&iacute; tất cả c&aacute;c cuộc gọi nội mạng Viettel trong nước, kh&ocirc;ng giới hạn số lần gọi v&agrave; số lần sử dụng trong th&aacute;ng.</span></p>
+	</li>
+	<li>
+	<p><span style="font-size:16px">Tuy nhi&ecirc;n, bạn cần lưu &yacute; rằng mức ưu đ&atilde;i gọi nội mạng trong g&oacute;i F120U Viettel chỉ &aacute;p dụng cho thời lượng cuộc gọi từ 10 ph&uacute;t trở xuống.&nbsp;</span></p>
+	</li>
+	<li>
+	<p style="text-align: center;"><span style="font-size:16px"><img src="/Upload/File/images/123.jpg" style="height:319px; width:480px" /></span></p>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px"><strong>Th&ocirc;ng tin hỗ trợ sử dụng g&oacute;i cước F120U Viettel:</strong></span></p>
+
+<p><span style="font-size:16px">&ndash; Đối tượng đăng k&yacute;: g&oacute;i cước F120U mạng Viettel chỉ &aacute;p dụng cho những thu&ecirc; bao may mắn nhận được tin nhắn mời tham gia đăng k&yacute; g&oacute;i từ tổng đ&agrave;i Viettel. Để kiểm tra g&oacute;i cước khuyến m&atilde;i Viettel n&agrave;o &aacute;p dụng cho thu&ecirc; bao bạn bấm <strong>*098#OK</strong>.&nbsp;</span></p>
+
+<p><span style="font-size:16px">&ndash; Sau 30 ng&agrave;y sử dụng, g&oacute;i cước c&oacute; t&iacute;nh năng gia hạn tiếp v&agrave;o chu kỳ sau. Do đ&oacute;, nếu c&oacute; nhu cầu d&ugrave;ng tiếp tục g&oacute;i cước n&agrave;y bạn kh&ocirc;ng phải mất thời gian tham gia k&iacute;ch hoạt lại g&oacute;i F120U Viettel.&nbsp;</span></p>
+
+<p><span style="font-size:16px">&ndash; Để kiểm tra ưu đ&atilde;i số ph&uacute;t gọi v&agrave; dung lượng 3G 4G Viettel c&ograve;n lại trong g&oacute;i khuyến m&atilde;i F120U của Viettel bạn soạn tin nhắn: <strong>KTTK</strong> gửi đến <strong>191</strong>.&nbsp;</span></p>
+
+<p><span style="font-size:16px">&ndash; Trong trường hợp bạn muốn hủy g&oacute;i cước F120U Viettel chỉ cần thao t&aacute;c soạn tin nhắn theo c&uacute; ph&aacute;p: <strong>HUY F120U</strong> gửi về tổng đ&agrave;i <strong>191</strong>.&nbsp;</span></p>
+
+<p><span style="font-size:16px"><em>Nếu bạn l&agrave; thu&ecirc; bao may mắn nhận được tin nhắn mời tham gia k&iacute;ch hoạt g&oacute;i cước F120U Viettel th&igrave; đừng chần chừ g&igrave; nữa, h&atilde;y nhanh tay tận hưởng ưu đ&atilde;i khủng từ g&oacute;i F120U mạng Viettel ngay th&ocirc;i n&agrave;o!</em></span></p>
+
+
+                                </p>
+                            </div>
+                            <div class="datap">
+                                <ul>
+                                    <li class="name"><a href="goi-cuoc-3f90-viettel.html">F120U</a></li>
+                                    <li class="number"> <span class="big">7GB+40p ngoại mạng +Free gọi &lt;10p</span></li>
+                                    <li class="price">120.000đ/th&#225;ng</li>
+                                </ul>
+                                <a class="chitiet details" href="/http://dangky4gviettel.com.vn/p/f120u-viettel">Chi Tiết <i class="fa fa-share"></i></a>    <br />
+                                <div class="dangky data-sms signup" onclick="smsbutton('9123','F120U 962559589')" style="background: #ff6000;">Đăng Ký Qua SMS <i class="fa fa-location-arrow"></i></div>
+                            </div>
+                        </div>
+                    <div class='clear'></div>
+                </div>
+            </div>
+        </div>
+        <div class='single-wrapper-right col-md-3'>
+            <div class='sidebar section' id='Sidebar'>
+                <div class='widget Image' data-version='1' id='Image5'>
+                    <div class='widget-content'>
+                        <img alt='Cáp Quang Viettel' height='600' id='Image5_img' src='http://lh4.googleusercontent.com/-2FDNY7quQkE/W_0sl86VrJI/AAAAAAAAD04/EzX-6ExTFmQzaN0iqB2aokDl3poNa7sqACK4BGAYYCw/s1600/qc.png' width='300' />
+                        <br />
+                    </div>
+                    <div class='clear'></div>
+                </div><div class='widget HTML' data-version='1' id='HTML26'>
+                    <h2 class='title'>Tin tức</h2>
+                    <div class='widget-content'>
+                                <div class="big-news-content-8">
+                                    <a href="/tin/cac-goi-cuoc-combo-mien-phi-goi-thoai">
+                                        <img alt="C&#225;c g&#243;i cước combo miễn ph&#237; gọi thoại" src="/Upload/2019/09/7-goi-cuoc-moi.png">
+                                    </a>
+                                    <h4>
+                                        <a href="/tin/cac-goi-cuoc-combo-mien-phi-goi-thoai">C&#225;c g&#243;i cước combo miễn ph&#237; gọi thoại</a>
+                                    </h4>
+                                </div>
+
+                    </div>
+                    <div class='clear'></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class='footer-main'>
+        <div class='container section' id='Footer Main'>
+            <div class='widget Image' data-version='1' id='Image1'>
+                <div class='widget-content'>
+                    <img alt='' height='540' id='Image1_img' src='/Content/images/logo-footer.png' width='542' />
+                    <br />
+                </div>
+                <div class='clear'></div>
+
+                <div class='clear'></div>
+            </div><div class='widget Text' data-version='1' id='Text1'>
+                <div class='widget-content'>
+                    <div>
+                        <span style="background-color: #00918d; box-sizing: border-box; font-weight: 700; font-size:14px;color:white;">&#169; Viettel Telecom 2019. All rights reserved.</span>
+                        <br style="background-color: #00918d; box-sizing: border-box; color: white; font-family: Roboto, sans-serif; font-size: 14px;" />
+                        <span style="background-color: #00918d; font-size:14px;color:white;">Cơ quan chủ quản: Tập đoàn Viễn thông Quân đội.</span>
+                        <br style="background-color: #00918d; box-sizing: border-box; color: white; font-family: Roboto, sans-serif; font-size: 14px;" />
+                        <span style="background-color: #00918d; font-size:14px;color:white;">Giấy phép số: 144/GP - BC do Bộ thông tin - Truyền thông cấp ngày 18/04/2007</span>
+                    </div>
+                    <div>
+                        <br />
+                    </div>
+                    <div>
+                        <ul class="list-inline list-unstyled text-center social-list" style="background-color: #00918d; box-sizing: border-box; color: white; display: inline-block; font-family: Roboto, sans-serif; font-size: 14px; list-style: none; margin: 0px 10px; padding-left: 0px; text-align: center;">
+                            <li style="box-sizing: border-box; display: inline-block; min-width: 83px; padding: 0px;">
+                                <a href="#" style="background-color: transparent; box-sizing: border-box; color: white; text-decoration-line: none;">
+                                    <span class="social-icon" style="border-radius: 46px; border: 1px solid transparent; box-sizing: border-box; display: inline-block; height: 46px; line-height: 46px; width: 46px;font-size:30px;color:#2ec3bd;">
+                                        <span class="fa fa-facebook" style="-webkit-font-smoothing: antialiased; box-sizing: border-box; display: inline-block; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: 1; text-rendering: auto;"></span>
+                                    </span>
+                                    <br style="box-sizing: border-box;" />
+                                    <span style="box-sizing: border-box;">Facebook</span>
+                                </a>
+                            </li>
+                            <li style="box-sizing: border-box; display: inline-block; min-width: 83px; padding: 0px;">
+                                <a href="#" style="background-color: transparent; box-sizing: border-box; text-decoration-line: none;color:white;">
+                                    <span class="social-icon" style="border-radius: 46px; border: 1px solid transparent; box-sizing: border-box; display: inline-block; height: 46px; line-height: 46px; width: 46px;font-size:30px;color:#2ec3bd;">
+                                        <span class="fa fa-twitter" style="-webkit-font-smoothing: antialiased; box-sizing: border-box; display: inline-block; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: 1; text-rendering: auto;"></span>
+                                    </span>
+                                    <br style="box-sizing: border-box;" />
+                                    <span style="box-sizing: border-box;">Twitter</span>
+                                </a>
+                            </li>
+                            <li style="box-sizing: border-box; display: inline-block; min-width: 83px; padding: 0px;">
+                                <a href="#" style="background-color: transparent; box-sizing: border-box; text-decoration-line: none;color:white;">
+                                    <span class="social-icon" style="border-radius: 46px; border: 1px solid transparent; box-sizing: border-box; display: inline-block; height: 46px; line-height: 46px; width: 46px;font-size:30px;color:#2ec3bd;">
+                                        <span class="fa fa-youtube" style="-webkit-font-smoothing: antialiased; box-sizing: border-box; display: inline-block; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: 1; text-rendering: auto;"></span>
+                                    </span><br style="box-sizing: border-box;" />
+                                    <span style="box-sizing: border-box;">Youtube</span>
+                                </a>
+                            </li>
+                            <li style="box-sizing: border-box; display: inline-block; min-width: 83px; padding: 0px;">
+                                <a href="#" style="background-color: transparent; box-sizing: border-box; text-decoration-line: none;color:white;">
+                                    <span class="social-icon" style="border-radius: 46px; border: 1px solid transparent; box-sizing: border-box; display: inline-block; height: 46px; line-height: 46px; width: 46px;font-size:30px;color:#2ec3bd;">
+                                        <span class="fa fa-google-plus" style="-webkit-font-smoothing: antialiased; box-sizing: border-box; display: inline-block; font-stretch: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: 1; text-rendering: auto;"></span>
+                                    </span><br style="box-sizing: border-box;" />
+                                    <span style="box-sizing: border-box;">Google plus</span>
+                                </a>
+                            </li>
+                        </ul>
+                        <span style="background-color: #00918d; text-align: right; font-size:14px;color:white;"> </span>
+                        <a class="hotline" href="#" style=" box-sizing: border-box; color: white; display: inline-block; font-family: Roboto, sans-serif; font-size: 20px; min-height: 62px; padding: 43px 0px 0px 53px; text-align: right; text-decoration-line: none;">1800 8168</a>
+                    </div>
+                </div>
+                <div class='clear'></div>
+            </div>
+        </div>
+    </div>
+    <!-- Latest compiled and minified JavaScript -->
+    <script crossorigin='anonymous'  src='/Content/js/bootstrap.min.js'></script>
+    <style>
+        .call-action {
+            background: #00918e url(/Content/images/logo-footer.png) no-repeat left center;
+            background-size: auto;
+            background-size: 60px;
+            max-height: 90px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            border: 1px solid #fff;
+            color: #fff;
+            padding: 15px 15px 15px 80px;
+        }
+
+            .call-action span {
+                color: yellow;
+            }
+
+            .call-action a {
+                color: yellow;
+            }
+    </style>
+    <div class='call-action hidden-sm hidden-lg hidden-md'>
+        <a onclick="smsbutton('9123','Tên-Gói 962559589')"><span>Tên-Gói</span> [khoảng] <span class='color:yellow'>962559589</span> gửi <span>9123</span></a>
+    </div>
+    <script src='/Content/js/plusone.js' type='text/javascript'></script>
+    <script type="text/javascript" src="/Content/js/1556530915-widgets.js"></script>
+    <script type='text/javascript' src="/Content/js/windowmain.js"></script>
+</body>
+</html>
