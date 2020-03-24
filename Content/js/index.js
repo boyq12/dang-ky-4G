@@ -5,7 +5,7 @@ $( document ).ready(function() {
 
 function GetAllDataPackages(){
     $.ajax({
-        url: "http://4gquocdan.somee.com/Home/GetAllDataPackages",
+        url: "https://4gquocdan.somee.com/Home/GetAllDataPackages",
         type: "GET",
         beforeSend: function(xhr){xhr.setRequestHeader('Content-Type', 'application/json');},
         success: function(data) { 
