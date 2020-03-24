@@ -5,7 +5,7 @@ $( document ).ready(function() {
 
 function GetAllDataPackages(){
     $.ajax({
-        url: "http://localhost:54917/Home/GetAllDataPackages",
+        url: "http://4gquocdan.somee.com/Home/GetAllDataPackages",
         type: "GET",
         beforeSend: function(xhr){xhr.setRequestHeader('Content-Type', 'application/json');},
         success: function(data) { 
@@ -22,8 +22,14 @@ function GetAllDataPackages(){
 function GenerateGroupDataPackage(group) {
     var dataType = "";
     if(group.dataType === 1){
-        dataType = "Data cho Di Động";
-    }
+        dataType = "Gói Data cho Di Động";
+    } else if(group.dataType === 2){
+		dataType = "Gói Data cho Dcom";
+	} else if(group.dataType === 3){
+		dataType = "Gói Combo cho Di Động";
+	} else {
+		dataType = "Gói di động trả trước";
+	}
 
     var nhaMang = "";
     if(group.items[0].networkProvider === 1){
